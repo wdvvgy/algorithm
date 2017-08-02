@@ -27,4 +27,4 @@ ll sum(vector<ll>& tree, int node, int start, int end, int left, int right) {
 
 int main(){
 	return 0;
-}
+} 
