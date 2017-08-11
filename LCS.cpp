@@ -4,6 +4,7 @@
 using namespace std;
 
 int d[2][101][101], ans;
+
 int main() {
 	ios_base::sync_with_stdio(false);
 	string a, b, c;
